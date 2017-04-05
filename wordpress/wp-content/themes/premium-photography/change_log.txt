@@ -1,0 +1,27 @@
+Version 1.0
+
+	i)   Theme Submitted for approval
+	
+Version 1.0.1
+	i)   Theme URI URL changed.
+	ii)  Compressed screenshot image for reducing theme zip size.
+	iii) Added sanitization in themes options.
+    iv)  Renamed 'theme-option' to 'theme-options'	
+	v)   Added MailChimp code.
+	
+Version 2.0	
+	i) Change Theme Options layout.
+	ii) Set esc_url_raw in theme options.
+	iii) Screenshot image license details add in readme.txt
+	iv) FontAwesome license details add in readme.txt
+	v) comments_template set in page.php
+	vi) Set copyright text layout in footer.
+	vii) Change some css in editor-style.css
+	viii) Add pagination plugin using TGM and TGM license details add in readme.txt.
+	
+Version 2.0.1 (17th Nov. 2014)
+  i) Fixed JS error which was appearing in admin panel. 
+  ii) Removed screen_icon() found in the file class-tgm-plugin-activation.php as it's deprecated.
+
+Version 2.0.2 (04th Jan. 2017)
+  i) Minor fixes.
